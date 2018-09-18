@@ -54,7 +54,7 @@ More advanced segments of the learning path are forthcoming, and we'll outline h
   1.  Guest team requests a feature from the host team.
   1.  Product owner ensures that user stories representing the feature request are created. These stories should describe the requested feature in terms agreeable to the guest team. They also list any details from the host team on how the feature should be delivered in order for the work to be accepted. Examples of such details include architecture constraints, coding conventions, dependency usages, data contracts, etc.
   1.  Supported by the trusted committer(s), the contributor submits the pull request(s) to implement the requested feature.
-* Short aside/dicscussion on committer vs. trusted committer.
+* Short aside/discussion on committer vs. trusted committer.
   * [In Apache projects](https://www.apache.org/dev/new-committers-guide.html#becoming-a-committer), developers gain project write access (in part) by giving mentoring and facilitation in the project community similar to what we've described as a trusted committer.
   This service to the project is recognized via bestowal of write access (being made a committer).
   In the enterprise, there are many other reasons that a person may have project write access other than their service to the project community.
