@@ -67,7 +67,7 @@ Inner source assumes that teams already have existing such methods of organizati
 * Guest team gets what they want, when they want it, without having to maintain it.
 * Host team gets a new feature that they didn't have to build.
 * Scalable strategy for balancing and filling the need of many consumers.
-* Requirements and prioirtization alignment.
+* Requirements and prioritization alignment.
 * Break down traditional company silos.
 * Fun place to work.
 
